@@ -1,3 +1,16 @@
+# Kamel Ride Analytics Dashboard
+built with React, TypeScript, and Vite.
+- Add and track ride events
+- Validate ride lifecycle
+- Ride status bar chart
+- Event history
+
+## Running Locally
+```bash
+npm install
+npm run dev
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
